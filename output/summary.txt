@@ -1,0 +1,68 @@
+
+======================================================================
+CAMPUS ENERGY CONSUMPTION - EXECUTIVE SUMMARY
+======================================================================
+
+Report Generated: 2025-12-04 01:58:24
+
+KEY FINDINGS:
+----------------------------------------------------------------------
+
+1. TOTAL CAMPUS CONSUMPTION
+   Total Energy Used: 315,139.24 kWh
+   Analysis Period: 2025-11-04 to 2025-12-04
+   Total Buildings Monitored: 4
+
+2. HIGHEST CONSUMING BUILDING
+   Building Name: Library
+   Total Consumption: 125,089.24 kWh
+   Average Hourly: 173.49 kWh
+   Peak Reading: 206.75 kWh
+
+3. PEAK LOAD ANALYSIS
+   Campus Peak Hour: 10:00 - 11:00
+   
+   Building-Specific Peak Hours:
+   - Admin_Building: 13:00 (103.08 kWh avg)
+   - Engineering_Block: 20:00 (87.80 kWh avg)
+   - Library: 14:00 (182.00 kWh avg)
+   - Sports_Complex: 9:00 (101.43 kWh avg)
+
+4. CONSUMPTION TRENDS
+   First Week Average: 10455.78 kWh/day
+   Last Week Average: 9082.64 kWh/day
+   Trend: -13.1%
+   
+5. BUILDING PERFORMANCE SUMMARY
+----------------------------------------------------------------------
+
+   Admin_Building:
+   - Total: 67,818.40 kWh
+   - Average: 94.06 kWh/hour
+   - Range: 66.78 - 128.11 kWh
+
+   Engineering_Block:
+   - Total: 56,814.55 kWh
+   - Average: 78.80 kWh/hour
+   - Range: 49.70 - 115.99 kWh
+
+   Library:
+   - Total: 125,089.24 kWh
+   - Average: 173.49 kWh/hour
+   - Range: 147.16 - 206.75 kWh
+
+   Sports_Complex:
+   - Total: 65,417.06 kWh
+   - Average: 90.73 kWh/hour
+   - Range: 60.49 - 128.67 kWh
+
+======================================================================
+RECOMMENDATIONS:
+----------------------------------------------------------------------
+
+1. Focus energy-saving initiatives on Library
+2. Implement load-shifting strategies during peak hour (10:00)
+3. Investigate decreasing consumption trend
+4. Consider demand response programs during peak hours
+
+======================================================================
